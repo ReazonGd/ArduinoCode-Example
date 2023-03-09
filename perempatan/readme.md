@@ -106,5 +106,5 @@ sama seperti menguragi, menabahkan lampu lalu lintas harus menabahkan lampu mera
 
 semoga membantu kalian.
 
-
+*``NOTE: PROGAM INI AKAN EFISIEN DENGAN 2 ATAU 3 LEBIH LAMPU LALU LINTAS``*
 
